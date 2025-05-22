@@ -2,7 +2,7 @@ import { createHashRouter } from "react-router-dom";
 
 import Default from "@Layouts/Default";
 
-import HomePage from "@Pages/home";
+import HomePage from "@Pages/Home";
 
 const routers = createHashRouter([
     {
